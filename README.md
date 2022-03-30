@@ -9,4 +9,4 @@ Herausforderung: Kosten und Flexibilität - Das System soll als "Nachrüstmögli
 Ein nächster Entwurf wird ohne fixe X-Parameter auskommen und selbst kalibrierend sein.
 Darüber hinaus werden Schwierigkeiten mit unterschiedlichen Helligkeiten durch eine IR-Diode und Kamera deutlich gebessert.
 
-Ein weiterer Entwurf wird ein Starten und Halten per Geste erkennen.
+Ein weiterer Entwurf wird ein Start- und Stopbefehl per Geste erkennen.
